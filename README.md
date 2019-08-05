@@ -1,7 +1,7 @@
-# Beer Reviews Analysis
+# Beer Reviews Analysis Case Study
 
 
-Data: https://s3.amazonaws.com/demo-datasets/beer_reviews.tar.gz
+Data: https://www.kaggle.com/rdoume/beerreviews
 Answer the following questions using the data above. 
 1) Which brewery produces the strongest beers by ABV%?
 2) If you had to pick 3 beers to recommend using only the data in this dataset, which would you pick?
